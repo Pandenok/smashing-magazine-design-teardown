@@ -1,0 +1,1 @@
+# Project: Smashing Magazine Design Teardown
